@@ -12,8 +12,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Enlaces a los repositorios
-
-[https://github.com/sb575/Sesion05](url)
 ## Header 2
 ### Header 3
 
@@ -25,6 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+[Repositorio sesion05](https://github.com/sb575/Sesion05)
 [Link](url) and ![Image](src)
 ```
 
