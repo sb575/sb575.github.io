@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Enlaces a los repositorios
+# Header 1
 ## Header 2
 ### Header 3
 
@@ -23,11 +23,15 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Repositorio sesion05](https://github.com/sb575/Sesion05)
 [Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Enlaces a los repositorios
+
+El enlace al repositorio de la sesión 05:
+[Repositorio sesion05](https://github.com/sb575/Sesion05)
 
 ### Jekyll Themes
 
